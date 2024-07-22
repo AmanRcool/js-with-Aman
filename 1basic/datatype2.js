@@ -27,3 +27,4 @@ const f= function(){
 }
 console.log(typeof score); //number
 console.log(typeof f); //function
+//
