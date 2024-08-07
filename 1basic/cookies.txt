@@ -1,0 +1,14 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+premium.chat	TRUE	/	FALSE	1999999999	advanced-frontend-pchat	ia59298ecsr6pjs4hk31ddnafv
+premium.chat	TRUE	/	FALSE	1999999999	_csrf-pchat	17dc4119c18c391b44b02fb46c4152f83d73764b9e0c1eb85617b624069b3d24a%3A2%3A%7Bi%3A0%3Bs%3A11%3A%22_csrf-pchat%22%3Bi%3A1%3Bs%3A32%3A%22AYCGtulSKhUe1OsQJ6JZIumB0HY5cK7v%22%3B%7D
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	09-Mar-2024
+.wikimedia.org	TRUE	/	FALSE	1999999999	GeoIP	IN:UP:Lucknow:26.88:80.91:v4
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	NetworkProbeLimit	0.001
+premium.chat	TRUE	/	FALSE	1999999999	cookie_checker	77eed725306765cee7f40ecd9ab0b3976ab8e3bdff7cd6df4b14399035b0d688a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22cookie_checker%22%3Bi%3A1%3Bi%3A1%3B%7D
+premium.chat	TRUE	/	FALSE	1999999999	referred_by	a691694e33a8dc2dd12f94fbad705eb333bec0ca66c31396cde6037c1b37d7e1a%3A2%3A%7Bi%3A0%3Bs%3A11%3A%22referred_by%22%3Bi%3A1%3Bi%3A185571%3B%7D
+premium.chat	TRUE	/	FALSE	1999999999	_identity-pchat_device_id	d567b5c729238cdd09d4609f3c6f8ef34fce4abf05b7d41236d13277d789c5f2a%3A2%3A%7Bi%3A0%3Bs%3A25%3A%22_identity-pchat_device_id%22%3Bi%3A1%3Bs%3A36%3A%227f67efc6-130a-495e-81eb-c7b43f7dc204%22%3B%7D
+premium.chat	TRUE	/	FALSE	1999999999	guest_ssch	8bddd3992de70df26d44096f413b4f9fa966bf444b67818a487a2966c4867dc3a%3A2%3A%7Bi%3A0%3Bs%3A10%3A%22guest_ssch%22%3Bi%3A1%3Bi%3A1%3B%7D
+premium.chat	TRUE	/	FALSE	1999999999	pc_device_id	01e31392ef0f29a48e13ffafa86fabbb24a7dbc419ddc8491d93cc218371c842a%3A2%3A%7Bi%3A0%3Bs%3A12%3A%22pc_device_id%22%3Bi%3A1%3Bs%3A36%3A%22545009bc-b4cd-45b8-931b-8268edeed31f%22%3B%7D
+premium.chat	TRUE	/	FALSE	1999999999	SameSite	Lax
+
